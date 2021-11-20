@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ULTRA-OP/HEROKU/",
-  "website": "https://github.com/ULTRA-OP/HEROKU/",
-  "success_url": "https://t.me/ULTRAXCHAT",
+  "repository": "https://github.com/majid-nex/nextron-bot/",
+  "website": "https://github.com/majid-nex/nex-heruko/",
+  "success_url": "https://t.me/mr_godfather9",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -28,7 +28,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @LEGENDX22.",
+      "description": "Fill your Full name or Username like @Mr_godfather9.",
       "value": "",
       "required": false
     },
@@ -102,7 +102,7 @@
        "value": "99999"
     }, 
     "STRING_SESSION": {
-      "description": "Get this value by running https://replit.com/@legendx22/ULTRA-X#main.py ",
+      "description": "Get this value by running https://replit.com/@majidyt/Nextron-bot ",
       "value": ""
     },
     "GITHUB_ACCESS_TOKEN": {
@@ -111,7 +111,7 @@
       "required": false
     },
     "GIT_REPO_NAME": {
-      "description": "Your repo name Example: madboy482/ULTRA-X , but GITHUB_ACCESS_TOKEN must be setup first.",
+      "description": "Your repo name Example: majid-nex/nextron-bot , but GITHUB_ACCESS_TOKEN must be setup first.",
       "value": "",
       "required": false
     },
